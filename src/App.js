@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          Kusse nanet
+          Meso is a kussi kuss dada!
         </p>
         <a
           className="App-link"
